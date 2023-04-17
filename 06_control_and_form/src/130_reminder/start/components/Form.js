@@ -24,6 +24,7 @@ return (
         />
         <button>追加</button>
     </form>
+    {/* form onSubmitによりEnterを押したら追加と同じ意味になる */}
     </div>
 );
 };
